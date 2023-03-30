@@ -1,5 +1,6 @@
-FIRST Download
+# Hotel Booking Website
 
+# How to Use
 1.XAMPP
 
 2."TEXT EDITOR" Visual Studio OR SUBLIME TEXT 3 / ETC.
@@ -16,12 +17,10 @@ FIRST Download
 
 8.Run the script http://localhost/Online_Hotel_Reservation 
 
-
-**LOGIN DETAILS** 
+# Credentials
 
 Admin
 user: admin
-
 pass: admin
 
 
